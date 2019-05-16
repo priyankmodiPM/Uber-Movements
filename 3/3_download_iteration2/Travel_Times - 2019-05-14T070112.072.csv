@@ -1,0 +1,5 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"95","Hanuman Mandir Road, Block B, Molar band Extension, Badarpur, New Delhi","90","C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1265,1014,1577
+"95","Hanuman Mandir Road, Block B, Molar band Extension, Badarpur, New Delhi","94","2212, Gautampuri Awas, Badarpur, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",756,465,1228
+"95","Hanuman Mandir Road, Block B, Molar band Extension, Badarpur, New Delhi","110","Pusta Road, Madanpur Khadar Phase 3, Madanpur Khadar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",933,465,1868
+"95","Hanuman Mandir Road, Block B, Molar band Extension, Badarpur, New Delhi","111","61 TO 80, Pocket J, Sarita Vihar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1375,820,2305

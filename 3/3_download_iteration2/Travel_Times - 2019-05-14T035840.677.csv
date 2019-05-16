@@ -1,0 +1,63 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3310,2507,4369
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3300,2552,4266
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3565,2647,4800
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2644,1936,3610
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1509,982,2316
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1805,1264,2577
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2287,1711,3056
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1786,1196,2665
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","13","10, Aurangzeb Road, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1776,1226,2572
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2338,1713,3189
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2207,1608,3027
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","17","0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2007,1389,2899
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",849,488,1475
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1282,838,1959
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","25","nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1478,1211,1803
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1395,891,2182
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1882,1402,2525
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1826,1292,2578
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2151,1604,2884
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3091,2286,4179
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2048,1585,2645
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3115,2427,3996
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2562,2032,3229
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2756,2040,3723
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2804,2280,3447
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2867,2495,3294
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1694,1287,2228
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2035,1710,2421
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","112","F-8, West Chandra Nagar, Chander Nagar, Krishna Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",282,121,655
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","113","P-132, Anarkali Colony, Krishna Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",559,374,834
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","130","Bhagat Singh Marg, Kashmiri Bagh, Chandra Shekhar Azad Colony, Sarai Rohilla, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1904,1507,2404
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1596,1160,2194
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1012,643,1592
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1339,863,2076
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","148","Unnamed Road, Patparganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",988,688,1417
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",708,477,1050
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","188","12/188, Shastri Nagar, Geeta Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",217,84,555
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","189","F22, Block F, Krishna Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",395,204,763
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","190","F-33, Block F, Preet Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",312,133,729
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1120,750,1671
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","192","0 Bhartendu Harish Chandra Marg, Ram Vihar, Anand Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",599,402,891
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",732,389,1376
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","194","nullGali Number 1, Block G, Block A, Shakarpur, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",216,49,943
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2171,1741,2705
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","214","Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1394,990,1962
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4038,3196,5100
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4279,3523,5197
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","226","Unnamed Road, Model Town, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1698,1454,1982
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1888,1193,2987
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1547,1072,2232
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1862,1386,2499
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4294,3314,5562
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","249","46, M.S Park, Vishwas Nagar, Shahdara, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",738,539,1009
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","252","813, Sector 1, RK Puram, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2553,1961,3322
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2375,1763,3198
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2694,1921,3776
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2252,1611,3146
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",760,495,1165
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",453,215,952
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",218,89,530
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1377,1118,1694
+"195","F-208/C, Block F, Laxmi Nagar, New Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",973,526,1796

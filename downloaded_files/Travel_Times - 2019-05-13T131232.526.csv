@@ -1,0 +1,140 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"3","Unnamed Road, Mahipalpur, New Delhi","1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1239,884,1735
+"3","Unnamed Road, Mahipalpur, New Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1001,626,1598
+"3","Unnamed Road, Mahipalpur, New Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",173,63,472
+"3","Unnamed Road, Mahipalpur, New Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",212,86,519
+"3","Unnamed Road, Mahipalpur, New Delhi","6","Unnamed Road, CVD Line, Delhi Cantonment, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",708,527,950
+"3","Unnamed Road, Mahipalpur, New Delhi","7","P 13, Baird Place, Delhi Cantonment, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",669,514,869
+"3","Unnamed Road, Mahipalpur, New Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",562,246,1281
+"3","Unnamed Road, Mahipalpur, New Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2260,1469,3476
+"3","Unnamed Road, Mahipalpur, New Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2095,1397,3139
+"3","Unnamed Road, Mahipalpur, New Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1187,658,2139
+"3","Unnamed Road, Mahipalpur, New Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2056,1360,3106
+"3","Unnamed Road, Mahipalpur, New Delhi","13","10, Aurangzeb Road, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1838,1206,2800
+"3","Unnamed Road, Mahipalpur, New Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1165,823,1649
+"3","Unnamed Road, Mahipalpur, New Delhi","15","H205, Block H, Sarojini Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1257,919,1717
+"3","Unnamed Road, Mahipalpur, New Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1063,596,1894
+"3","Unnamed Road, Mahipalpur, New Delhi","17","0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1714,1234,2380
+"3","Unnamed Road, Mahipalpur, New Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2779,1963,3933
+"3","Unnamed Road, Mahipalpur, New Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2482,1630,3779
+"3","Unnamed Road, Mahipalpur, New Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1298,1066,1580
+"3","Unnamed Road, Mahipalpur, New Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1552,1247,1931
+"3","Unnamed Road, Mahipalpur, New Delhi","27","0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1082,902,1297
+"3","Unnamed Road, Mahipalpur, New Delhi","28","nullSchool Road, Block M, Uttam Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1672,1331,2100
+"3","Unnamed Road, Mahipalpur, New Delhi","29","Street Number 14, Block C, Sitapuri Part 1, Janakpuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1212,981,1496
+"3","Unnamed Road, Mahipalpur, New Delhi","32","METRO MALL, Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1412,1130,1763
+"3","Unnamed Road, Mahipalpur, New Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2255,1542,3297
+"3","Unnamed Road, Mahipalpur, New Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1820,1396,2372
+"3","Unnamed Road, Mahipalpur, New Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2147,1620,2843
+"3","Unnamed Road, Mahipalpur, New Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1583,1199,2088
+"3","Unnamed Road, Mahipalpur, New Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",842,589,1202
+"3","Unnamed Road, Mahipalpur, New Delhi","66","nullBhagat Singh Market Marg, Block K, Malviya Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1677,1098,2559
+"3","Unnamed Road, Mahipalpur, New Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1487,1113,1986
+"3","Unnamed Road, Mahipalpur, New Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",375,174,806
+"3","Unnamed Road, Mahipalpur, New Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",621,418,920
+"3","Unnamed Road, Mahipalpur, New Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",452,245,831
+"3","Unnamed Road, Mahipalpur, New Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",607,271,1356
+"3","Unnamed Road, Mahipalpur, New Delhi","72","7/254, Dakshinpuri Extension, Block 7, Sector 6, Dakshinpuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1687,1500,1896
+"3","Unnamed Road, Mahipalpur, New Delhi","73","0 Central Avenue, Block E, Sainik Farm, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1884,1101,3221
+"3","Unnamed Road, Mahipalpur, New Delhi","74","F-269, Ambedkar Nagar, Block F, Sector 5, Dakshinpuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1908,1474,2469
+"3","Unnamed Road, Mahipalpur, New Delhi","76","124, SPG Quarters, Sector 4, Pushp Vihar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2026,1530,2682
+"3","Unnamed Road, Mahipalpur, New Delhi","77","0 Mehrauli - Badarpur Road, Tughlakabad Institutional Area, Vayusenabad, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2122,1725,2610
+"3","Unnamed Road, Mahipalpur, New Delhi","80","E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1484,1148,1917
+"3","Unnamed Road, Mahipalpur, New Delhi","81","126, Block L 1, Alaknanda, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1453,1152,1831
+"3","Unnamed Road, Mahipalpur, New Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1208,909,1604
+"3","Unnamed Road, Mahipalpur, New Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1511,1182,1931
+"3","Unnamed Road, Mahipalpur, New Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1715,1321,2226
+"3","Unnamed Road, Mahipalpur, New Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1620,1301,2016
+"3","Unnamed Road, Mahipalpur, New Delhi","87","0 Maharaja Agarsen Marg, Subash Khand, Giri Nagar, Kalkaji, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1969,1658,2336
+"3","Unnamed Road, Mahipalpur, New Delhi","88","Krishan Marg, Tughlaqabad Village, Tughlakabad, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2291,1974,2658
+"3","Unnamed Road, Mahipalpur, New Delhi","90","C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2280,1929,2693
+"3","Unnamed Road, Mahipalpur, New Delhi","91","nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1876,1577,2231
+"3","Unnamed Road, Mahipalpur, New Delhi","94","2212, Gautampuri Awas, Badarpur, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2349,1895,2910
+"3","Unnamed Road, Mahipalpur, New Delhi","96","0 Street Number 9, Noor Nagar Extension, Noor Nagar, Okhla, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2922,1574,5422
+"3","Unnamed Road, Mahipalpur, New Delhi","100","Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1894,1471,2437
+"3","Unnamed Road, Mahipalpur, New Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1860,422,8180
+"3","Unnamed Road, Mahipalpur, New Delhi","103","nullDasghara Road, Dasghara, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1266,856,1871
+"3","Unnamed Road, Mahipalpur, New Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1330,945,1869
+"3","Unnamed Road, Mahipalpur, New Delhi","106","IGNOU Residential Campus Road, Rocky Area, Stone Quarries, Maidan Garhi, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2178,1819,2607
+"3","Unnamed Road, Mahipalpur, New Delhi","107","1100 Zia UL Haq Road, Block A1, Chattarpur, Chhattarpur, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2145,1610,2856
+"3","Unnamed Road, Mahipalpur, New Delhi","108","Unnamed Road, Block G, Bhim Basti, Jaunapur, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2595,1954,3445
+"3","Unnamed Road, Mahipalpur, New Delhi","110","Pusta Road, Madanpur Khadar Phase 3, Madanpur Khadar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2243,1812,2775
+"3","Unnamed Road, Mahipalpur, New Delhi","111","61 TO 80, Pocket J, Sarita Vihar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2044,1704,2450
+"3","Unnamed Road, Mahipalpur, New Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1622,1253,2098
+"3","Unnamed Road, Mahipalpur, New Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1935,1740,2150
+"3","Unnamed Road, Mahipalpur, New Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1427,1028,1980
+"3","Unnamed Road, Mahipalpur, New Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2137,1705,2677
+"3","Unnamed Road, Mahipalpur, New Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2897,2273,3691
+"3","Unnamed Road, Mahipalpur, New Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2607,2046,3320
+"3","Unnamed Road, Mahipalpur, New Delhi","135","0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1450,1259,1669
+"3","Unnamed Road, Mahipalpur, New Delhi","137","nullRoad Number 235, Block H, Vikaspuri, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2259,1795,2842
+"3","Unnamed Road, Mahipalpur, New Delhi","142","Gali Number 1, Dabri Village, Dabri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1118,914,1367
+"3","Unnamed Road, Mahipalpur, New Delhi","143","nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1145,883,1483
+"3","Unnamed Road, Mahipalpur, New Delhi","145","0 Trilok Puri Road, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2253,1735,2925
+"3","Unnamed Road, Mahipalpur, New Delhi","147","0 Trilok Puri Road, Subhash Market, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2333,1828,2976
+"3","Unnamed Road, Mahipalpur, New Delhi","148","Unnamed Road, Patparganj, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2293,1689,3111
+"3","Unnamed Road, Mahipalpur, New Delhi","149","Bharati Road, Block C 2, Block D, New Ashok Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2238,1727,2899
+"3","Unnamed Road, Mahipalpur, New Delhi","151","Shaheed Budh Ram Singh Marg, Dallupura, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2804,2059,3817
+"3","Unnamed Road, Mahipalpur, New Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2751,1953,3873
+"3","Unnamed Road, Mahipalpur, New Delhi","155","Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2281,1627,3196
+"3","Unnamed Road, Mahipalpur, New Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1855,1372,2507
+"3","Unnamed Road, Mahipalpur, New Delhi","157","CH Devender Singh Tewatia Marg, Ashok Vihar II, Pocket B 1, Phase 3, Ashok Vihar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2579,2180,3050
+"3","Unnamed Road, Mahipalpur, New Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1916,1500,2446
+"3","Unnamed Road, Mahipalpur, New Delhi","160","23, Shiva Enclave, Pitampura, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2091,1791,2441
+"3","Unnamed Road, Mahipalpur, New Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1803,1409,2306
+"3","Unnamed Road, Mahipalpur, New Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2311,1938,2754
+"3","Unnamed Road, Mahipalpur, New Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1771,1390,2254
+"3","Unnamed Road, Mahipalpur, New Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2126,1883,2400
+"3","Unnamed Road, Mahipalpur, New Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2180,1605,2959
+"3","Unnamed Road, Mahipalpur, New Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2761,2288,3331
+"3","Unnamed Road, Mahipalpur, New Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2103,1601,2761
+"3","Unnamed Road, Mahipalpur, New Delhi","171","nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2341,1918,2856
+"3","Unnamed Road, Mahipalpur, New Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2471,2047,2981
+"3","Unnamed Road, Mahipalpur, New Delhi","173","Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2798,2136,3665
+"3","Unnamed Road, Mahipalpur, New Delhi","189","F22, Block F, Krishna Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2918,2265,3758
+"3","Unnamed Road, Mahipalpur, New Delhi","190","F-33, Block F, Preet Vihar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",3945,3027,5140
+"3","Unnamed Road, Mahipalpur, New Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2945,2107,4115
+"3","Unnamed Road, Mahipalpur, New Delhi","192","0 Bhartendu Harish Chandra Marg, Ram Vihar, Anand Vihar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",4254,3231,5600
+"3","Unnamed Road, Mahipalpur, New Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2316,1630,3288
+"3","Unnamed Road, Mahipalpur, New Delhi","194","nullGali Number 1, Block G, Block A, Shakarpur, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2994,1879,4770
+"3","Unnamed Road, Mahipalpur, New Delhi","195","F-208/C, Block F, Laxmi Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",3632,2729,4832
+"3","Unnamed Road, Mahipalpur, New Delhi","196","nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2545,2084,3107
+"3","Unnamed Road, Mahipalpur, New Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",788,600,1033
+"3","Unnamed Road, Mahipalpur, New Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1862,1423,2435
+"3","Unnamed Road, Mahipalpur, New Delhi","207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1926,1574,2355
+"3","Unnamed Road, Mahipalpur, New Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1853,1283,2675
+"3","Unnamed Road, Mahipalpur, New Delhi","214","Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2306,1856,2864
+"3","Unnamed Road, Mahipalpur, New Delhi","219","461, Block AG, Sanjay Gandhi Transport Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",3495,2540,4807
+"3","Unnamed Road, Mahipalpur, New Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",518,290,922
+"3","Unnamed Road, Mahipalpur, New Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",737,429,1265
+"3","Unnamed Road, Mahipalpur, New Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1515,841,2727
+"3","Unnamed Road, Mahipalpur, New Delhi","225","0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2306,1562,3403
+"3","Unnamed Road, Mahipalpur, New Delhi","226","Unnamed Road, Model Town, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2731,1865,3998
+"3","Unnamed Road, Mahipalpur, New Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2759,2213,3439
+"3","Unnamed Road, Mahipalpur, New Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1502,1134,1988
+"3","Unnamed Road, Mahipalpur, New Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1384,1039,1842
+"3","Unnamed Road, Mahipalpur, New Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",988,738,1322
+"3","Unnamed Road, Mahipalpur, New Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1335,962,1850
+"3","Unnamed Road, Mahipalpur, New Delhi","234","113, Press Colony, Press Colony, Mayapuri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1390,992,1945
+"3","Unnamed Road, Mahipalpur, New Delhi","235","nullBharat Vihar Road, Block G, Raja Puri, Matiala, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1140,877,1481
+"3","Unnamed Road, Mahipalpur, New Delhi","240","37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2993,2503,3577
+"3","Unnamed Road, Mahipalpur, New Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1693,1364,2099
+"3","Unnamed Road, Mahipalpur, New Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1672,1281,2180
+"3","Unnamed Road, Mahipalpur, New Delhi","247","9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",693,479,1001
+"3","Unnamed Road, Mahipalpur, New Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",885,602,1300
+"3","Unnamed Road, Mahipalpur, New Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1460,1076,1980
+"3","Unnamed Road, Mahipalpur, New Delhi","252","813, Sector 1, RK Puram, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",630,408,970
+"3","Unnamed Road, Mahipalpur, New Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",826,593,1149
+"3","Unnamed Road, Mahipalpur, New Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",928,685,1255
+"3","Unnamed Road, Mahipalpur, New Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1379,1007,1887
+"3","Unnamed Road, Mahipalpur, New Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",650,475,887
+"3","Unnamed Road, Mahipalpur, New Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1543,1014,2347
+"3","Unnamed Road, Mahipalpur, New Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2615,1955,3496
+"3","Unnamed Road, Mahipalpur, New Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2686,1909,3779
+"3","Unnamed Road, Mahipalpur, New Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2907,1956,4320
+"3","Unnamed Road, Mahipalpur, New Delhi","272","Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1781,1335,2374
+"3","Unnamed Road, Mahipalpur, New Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2264,1557,3291
+"3","Unnamed Road, Mahipalpur, New Delhi","279","Nightingale Road, Budella, Vikaspuri, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2147,1695,2718
+"3","Unnamed Road, Mahipalpur, New Delhi","280","nullHastsal Road, Block A2, JJ Colony, Uttam Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2020,1598,2551
+"3","Unnamed Road, Mahipalpur, New Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",1932,1517,2460
+"3","Unnamed Road, Mahipalpur, New Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",2673,1804,3959

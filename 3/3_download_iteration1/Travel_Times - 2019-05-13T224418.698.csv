@@ -1,0 +1,103 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",606,405,905
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",316,149,668
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1324,942,1859
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",957,668,1370
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",866,499,1500
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","6","Unnamed Road, CVD Line, Delhi Cantonment, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",353,134,927
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",586,307,1117
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1972,1560,2492
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1755,1344,2290
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1020,717,1450
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1830,1428,2343
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","13","10, Aurangzeb Road, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1705,1357,2142
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1468,1175,1832
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","15","H205, Block H, Sarojini Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1625,1458,1810
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1114,841,1474
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","17","0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1920,1707,2158
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2179,1574,3016
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",593,427,823
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",750,533,1054
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","27","0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",404,258,632
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","28","nullSchool Road, Block M, Uttam Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",860,679,1089
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","29","Street Number 14, Block C, Sitapuri Part 1, Janakpuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",613,476,789
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","32","METRO MALL, Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1796,1541,2091
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2300,1807,2927
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2191,1738,2761
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2186,1834,2605
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1987,1587,2487
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2265,1815,2825
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","66","nullBhagat Singh Market Marg, Block K, Malviya Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2715,2235,3297
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1900,1468,2457
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2032,1598,2582
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1930,1535,2425
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1095,752,1592
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2036,1674,2475
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","76","124, SPG Quarters, Sector 4, Pushp Vihar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2767,2141,3574
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","80","E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2745,2161,3486
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","81","126, Block L 1, Alaknanda, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",3197,2724,3752
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2543,2049,3155
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2422,1754,3344
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2345,1848,2974
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2617,2150,3185
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","90","C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",3075,2555,3700
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","91","nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2871,2344,3515
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","103","nullDasghara Road, Dasghara, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1039,812,1328
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",678,453,1014
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","108","Unnamed Road, Block G, Bhim Basti, Jaunapur, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",3103,2599,3704
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","111","61 TO 80, Pocket J, Sarita Vihar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2986,2438,3656
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",980,752,1277
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",809,562,1163
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","135","0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",853,657,1105
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","137","nullRoad Number 235, Block H, Vikaspuri, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1022,806,1295
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","142","Gali Number 1, Dabri Village, Dabri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",417,290,597
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","143","nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1316,974,1777
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","148","Unnamed Road, Patparganj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2594,2133,3154
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2704,2278,3209
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","155","Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1413,1093,1825
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1353,1096,1668
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1201,954,1511
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1539,1174,2017
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1131,910,1405
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1476,1187,1835
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1112,879,1405
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1483,1152,1908
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1404,1045,1886
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1247,1000,1554
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1428,1099,1855
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","171","nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1799,1430,2262
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1680,1318,2141
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","175","235, Block E, Block E, Mangolpuri, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1460,1209,1761
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","176","B7-187, Pocket 7, Sector 3B, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1602,1329,1931
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","179","0 AB Road, Block RR, Mianwali Nagar, Paschim Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1698,1296,2223
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2910,2448,3458
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2491,2017,3075
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1069,759,1503
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1690,1327,2152
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1916,1525,2406
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2279,1371,3787
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",868,647,1164
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",824,593,1143
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",234,155,351
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",686,479,980
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","234","113, Press Colony, Press Colony, Mayapuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",703,521,948
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","235","nullBharat Vihar Road, Block G, Raja Puri, Matiala, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1361,1088,1701
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1020,815,1276
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2076,1656,2601
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","247","9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1226,678,2216
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2027,1631,2517
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1366,1110,1680
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","252","813, Sector 1, RK Puram, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1288,972,1706
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1685,1234,2300
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2212,1752,2792
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1721,1373,2156
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",984,631,1533
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2509,1996,3153
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2700,2170,3358
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2657,2203,3203
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","272","Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2616,2086,3279
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2292,1870,2808
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","279","Nightingale Road, Budella, Vikaspuri, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1108,746,1644
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","280","nullHastsal Road, Block A2, JJ Colony, Uttam Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1064,831,1361
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1041,717,1509
+"7","P 13, Baird Place, Delhi Cantonment, New Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2486,1974,3130

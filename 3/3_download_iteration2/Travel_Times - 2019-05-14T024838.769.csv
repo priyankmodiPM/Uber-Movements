@@ -1,0 +1,6 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"51","Gali number 4, Ambedkar Colony, Dagarpur Mohalla, Johripur, Delhi","46","256, Block C 2, Bhajanpura, Tukhmirpur, Delhi","11/6/2016 - 11/6/2016, Every day, AM Peak",354,161,775
+"51","Gali number 4, Ambedkar Colony, Dagarpur Mohalla, Johripur, Delhi","48","Kardam Marg, Block B, Kabir Nagar, Shahdara, Delhi","11/6/2016 - 11/6/2016, Every day, AM Peak",780,459,1323
+"51","Gali number 4, Ambedkar Colony, Dagarpur Mohalla, Johripur, Delhi","52","202, Block D, Ganga Vihar, Gokalpuri, Delhi","11/6/2016 - 11/6/2016, Every day, AM Peak",303,112,814
+"51","Gali number 4, Ambedkar Colony, Dagarpur Mohalla, Johripur, Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/6/2016 - 11/6/2016, Every day, AM Peak",2335,1141,4776
+"51","Gali number 4, Ambedkar Colony, Dagarpur Mohalla, Johripur, Delhi","268","null5th Pustha Road, Block B, Bhajanpura, Shahdara, Delhi","11/6/2016 - 11/6/2016, Every day, AM Peak",2294,766,6864

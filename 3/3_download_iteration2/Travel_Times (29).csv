@@ -1,0 +1,10 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"30","Unnamed Road, Asalatpur Khadar, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2020,1373,2970
+"30","Unnamed Road, Asalatpur Khadar, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2042,1567,2659
+"30","Unnamed Road, Asalatpur Khadar, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1935,1530,2446
+"30","Unnamed Road, Asalatpur Khadar, Delhi","31","Main Jhatikra Road, Paprawat, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",264,141,491
+"30","Unnamed Road, Asalatpur Khadar, Delhi","143","nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",961,701,1317
+"30","Unnamed Road, Asalatpur Khadar, Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1622,1514,1737
+"30","Unnamed Road, Asalatpur Khadar, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1600,999,2561
+"30","Unnamed Road, Asalatpur Khadar, Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",640,333,1226
+"30","Unnamed Road, Asalatpur Khadar, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2583,1557,4283

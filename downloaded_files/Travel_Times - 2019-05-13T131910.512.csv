@@ -1,0 +1,5 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"22","500 Fasil Road, Farash Khana, Chandni Chowk, New Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",670,341,1316
+"22","500 Fasil Road, Farash Khana, Chandni Chowk, New Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",781,428,1423
+"22","500 Fasil Road, Farash Khana, Chandni Chowk, New Delhi","99","100 Street Number 1, Amar Puri, Ram Nagar, Paharganj, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",373,191,725
+"22","500 Fasil Road, Farash Khana, Chandni Chowk, New Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","9/2/2016 - 9/2/2016, Every day, AM Peak",575,261,1266

@@ -1,0 +1,101 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2622,2026,3393
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2833,2213,3625
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4207,3522,5024
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4150,3542,4861
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4296,3716,4966
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3196,2621,3896
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3654,3081,4333
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3147,2461,4023
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3818,2974,4899
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3228,2559,4070
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3793,2573,5590
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1793,1444,2225
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","25","nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1557,1155,2097
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1982,1594,2463
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","27","0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2080,1621,2667
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","29","Street Number 14, Block C, Sitapuri Part 1, Janakpuri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2414,1948,2990
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4073,3223,5145
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4351,3719,5089
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3229,2524,4129
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4929,4464,5441
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2599,1961,3442
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1602,1228,2088
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","122","2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2028,1644,2501
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1849,1448,2360
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2143,1641,2797
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","129","Gali Number 8, Anand Parbat, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1932,1521,2452
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2534,2150,2986
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1993,1538,2581
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","136","nullKeshopur Road, New Chaukhandi, Paschim Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1640,1295,2075
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","137","nullRoad Number 235, Block H, Vikaspuri, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1656,1306,2098
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","142","Gali Number 1, Dabri Village, Dabri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2149,1713,2694
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","148","Unnamed Road, Patparganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4320,3399,5489
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","155","Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2859,1372,5953
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1429,975,2092
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","158","484, Block E, Nimri Colony, Ashok Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1517,1380,1666
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1138,819,1579
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1002,692,1449
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1631,1065,2496
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","162","2400 Pt Govind Ram Shastri Marg, Ganeshpura, Tri Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1620,1333,1968
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1215,899,1641
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1444,1015,2053
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1339,1028,1742
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1460,1147,1857
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1274,1130,1435
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",806,607,1068
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1037,765,1404
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","171","nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",489,286,834
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",765,510,1146
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","173","Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",461,227,933
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","175","235, Block E, Block E, Mangolpuri, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1192,874,1624
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","176","B7-187, Pocket 7, Sector 3B, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",960,615,1497
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","179","0 AB Road, Block RR, Mianwali Nagar, Paschim Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1781,1410,2248
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","185","Bawana Road, Puth Khurd, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",667,460,965
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","186","14, Sector 21, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",334,163,681
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","188","12/188, Shastri Nagar, Geeta Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3307,2920,3744
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","189","F22, Block F, Krishna Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3278,2905,3697
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4608,4081,5201
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3238,2691,3895
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","196","nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",256,102,641
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1875,1390,2527
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2392,2094,2731
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2070,1615,2652
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","205","2100 Gali Number 14, Block B, Prem Nagar, Patel Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1998,1569,2544
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2409,1856,3125
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3013,2527,3591
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","212","Bawana Road, Sector 30, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",309,170,558
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","215","Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1262,1028,1548
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","216","0 Main Canal Road, Harit Vihar, Mukandpur Part 2, Mukundpur, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1141,913,1425
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","218","nullTandoor Wali Gali, Swami Shraddhanand Park, Bhalswa Dairy, Jahangirpura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",904,695,1175
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","219","461, Block AG, Sanjay Gandhi Transport Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",742,544,1010
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","221","Srinagar - Kanyakumari Highway, Bhalswa Jahangirpuri, Jahangirpuri, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",817,652,1023
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",5224,4641,5879
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4657,3760,5766
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3507,2855,4306
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","225","0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2805,1322,5948
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","226","Unnamed Road, Model Town, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1775,1026,3068
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1670,1313,2122
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1705,1300,2235
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1699,1310,2203
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2593,2111,3184
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2482,1844,3339
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","236","nullRithala Road, Pocket A, Budh Vihar Phase I, Budh Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",494,266,915
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","240","37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",449,238,845
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1587,1182,2129
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","245","N-1/17, Block M, Mangolpuri, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",805,600,1078
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","247","9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2710,2314,3173
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",5460,4844,6154
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2622,2040,3369
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","252","813, Sector 1, RK Puram, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4064,3502,4714
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2158,1856,2509
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","261","Nangli Ibrahimpur Road, Kadipur, Kushak Colony, Kadipur Village, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1041,823,1315
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4027,3190,5083
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3618,3229,4053
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3411,3002,3875
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","277","700 Outer Ring Road, Bhalswa Jahangir Village, Jahangirpuri, नई दिल्ली","11/7/2016 - 11/7/2016, Every day, AM Peak",944,739,1204
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","279","Nightingale Road, Budella, Vikaspuri, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1715,1360,2161
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1740,1388,2179
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3691,2825,4821
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","283","nullVijay Marg, Block B, Baljit Nagar, Patel Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1901,1536,2352
+"146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","287","L47, Block L, Shastri Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1769,1487,2103

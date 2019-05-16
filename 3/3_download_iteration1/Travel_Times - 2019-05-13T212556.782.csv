@@ -1,0 +1,147 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1178,831,1669
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1283,964,1707
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1970,1509,2571
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1912,1479,2470
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1998,1346,2965
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","7","P 13, Baird Place, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1476,1069,2036
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1450,1101,1909
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2193,1808,2659
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1887,1543,2306
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1610,1218,2126
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2024,1670,2452
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","13","10, Aurangzeb Road, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2474,2001,3057
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2008,1397,2886
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1642,1270,2121
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","23","nullStreet Number 5 NA Block, NA Block, Khayala, Vishnu Garden, नई दिल्ली","11/1/2016 - 11/1/2016, Every day, AM Peak",589,373,928
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",699,449,1087
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","25","nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1288,919,1804
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",730,466,1142
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","27","0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",884,614,1272
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","28","nullSchool Road, Block M, Uttam Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1235,740,2060
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","29","Street Number 14, Block C, Sitapuri Part 1, Janakpuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1014,759,1353
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","32","METRO MALL, Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1909,1612,2259
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","40","Gali Saini Tent, Ram Nagar, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2750,2058,3673
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","41","Lala Raghubar Dayal Marg, Phase 4, Block B, Subhash Park, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2639,2002,3477
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","43","A537, New Seelampur Phase II, New Seelampur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2474,1842,3321
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","58","Pushta Road, Block A, Rajiv Nagar, Sonia Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2250,1689,2995
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2657,2084,3386
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2435,1731,3425
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2665,2195,3234
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2195,1303,3696
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2396,1770,3241
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2353,1716,3226
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1644,1232,2192
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2562,1963,3342
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","80","E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2797,2359,3316
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2498,2122,2939
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2642,2103,3318
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2921,2327,3665
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",3051,2704,3441
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","100","Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1408,1131,1751
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1703,1370,2116
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","103","nullDasghara Road, Dasghara, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1339,903,1984
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1090,796,1490
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","116","9/5284, Shanti Mohalla, Seelampur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2546,1908,3396
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",513,307,854
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","122","2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1120,818,1533
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",881,602,1289
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",964,661,1403
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","125","Shaheed Chander Shekhar Azad Marg, Laxmi Park, Ranhola Extesion, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1388,1047,1838
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","127","NDPL House, Lala Achintaram Marg, Block B, Gujranwala Town, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1406,1028,1922
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","128","0 Shakti Mandir Marg, Block 10, Shakti Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1173,1049,1310
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","129","Gali Number 8, Anand Parbat, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",862,626,1186
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","130","Bhagat Singh Marg, Kashmiri Bagh, Chandra Shekhar Azad Colony, Sarai Rohilla, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1371,1044,1800
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1624,1260,2091
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1747,1383,2205
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1565,1203,2035
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","135","0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",814,514,1286
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","136","nullKeshopur Road, New Chaukhandi, Paschim Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",346,214,558
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","137","nullRoad Number 235, Block H, Vikaspuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",366,248,539
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","139","nullBudh Bazar Road, Nawada, Nawada Majra Village, Nawada, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1646,1162,2329
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","140","A12/B, Sainik Nagar, Mansa Ram Park, Uttam Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1731,1195,2507
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","142","Gali Number 1, Dabri Village, Dabri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",984,736,1313
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","143","nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1691,1302,2195
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","144","Najafgarh Road, Indra Park, Block A, Masudabad, Najafgarh, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2167,1811,2592
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","155","Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1074,809,1424
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",856,587,1247
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",904,503,1621
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",405,254,643
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",585,365,935
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",220,119,404
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",353,192,647
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",209,104,417
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1073,788,1459
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",531,356,790
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",610,344,1080
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","171","nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",840,505,1396
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",458,301,695
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","173","Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",885,554,1411
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","174","Road Number 316, Mangol Puri Industrial Area Phase I, Block Q, Mangolpuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",791,318,1965
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","175","235, Block E, Block E, Mangolpuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",146,72,293
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","176","B7-187, Pocket 7, Sector 3B, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",255,158,408
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","178","I334, Saini Mohalla, Shiv Vihar, Nangloi, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",542,306,959
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","179","0 AB Road, Block RR, Mianwali Nagar, Paschim Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",265,72,962
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","180","GH-14/234, GH 14, Block GH 14, Paschim Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",342,205,569
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","186","14, Sector 21, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1054,849,1308
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","187","60, Vijay Vihar Phase II, Pocket C, Sector 1, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1158,516,2596
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","188","12/188, Shastri Nagar, Geeta Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2401,1999,2883
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","189","F22, Block F, Krishna Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2287,1884,2775
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2025,1530,2679
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","196","nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",984,600,1611
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",706,498,1000
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1317,975,1778
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1116,851,1463
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","205","2100 Gali Number 14, Block B, Prem Nagar, Patel Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",981,717,1341
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1081,824,1417
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1492,1137,1956
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","209","nullMaharaja Agarsen Marg, Block A, CC Colony, Kalyan Vihar, नई दिल्ली","11/1/2016 - 11/1/2016, Every day, AM Peak",1364,1255,1481
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","214","Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1683,1300,2177
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","215","Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1047,795,1377
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","216","0 Main Canal Road, Harit Vihar, Mukandpur Part 2, Mukundpur, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",924,697,1223
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","218","nullTandoor Wali Gali, Swami Shraddhanand Park, Bhalswa Dairy, Jahangirpura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",683,483,964
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","219","461, Block AG, Sanjay Gandhi Transport Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",610,457,813
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","221","Srinagar - Kanyakumari Highway, Bhalswa Jahangirpuri, Jahangirpuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",982,561,1717
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2220,1827,2697
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2277,1701,3046
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2095,1777,2469
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","225","0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1205,867,1674
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","226","Unnamed Road, Model Town, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1197,870,1645
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1504,1217,1857
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1363,1024,1813
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",778,511,1182
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","230","N494, Block N, Raghubir Nagar, Tagore Garden Extension, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",610,400,929
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",920,585,1446
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1136,817,1578
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1051,732,1507
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","234","113, Press Colony, Press Colony, Mayapuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1061,717,1569
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","236","nullRithala Road, Pocket A, Budh Vihar Phase I, Budh Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",762,549,1057
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","237","121, Assam Timber Market, Gulshan Park, Mundka, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",474,391,574
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","240","37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",556,390,792
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",598,399,895
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","245","N-1/17, Block M, Mangolpuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",368,249,543
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2374,1175,4794
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","247","9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1594,1230,2065
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2445,2009,2974
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","250","719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",268,119,599
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1386,1134,1693
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","252","813, Sector 1, RK Puram, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1849,1400,2441
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2256,1673,3041
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2669,2078,3428
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2100,1006,4381
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1219,876,1694
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","258","Sant Sujan Singh Marg, JJ Colony, Block N, Tagore Garden, Tagore Garden Extension, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",725,485,1082
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",3012,2672,3394
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","261","Nangli Ibrahimpur Road, Kadipur, Kushak Colony, Kadipur Village, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",794,607,1037
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",3066,2520,3730
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2514,2056,3073
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","267","nullPanduk Shila Marg, Kaithwara Jagjivan Nagar, New Usmanpur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2135,1695,2688
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","276","MCD Office, South delhi, Najafgarh Dhansa Road, Najafgarh Village, Najafgarh, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2809,1945,4056
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","277","700 Outer Ring Road, Bhalswa Jahangir Village, Jahangirpuri, नई दिल्ली","11/1/2016 - 11/1/2016, Every day, AM Peak",689,417,1136
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","278","nullNangloi - Najafgarh Road, Brahampuri Colony, Kotla Vihar Phase 2, Ranhola, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1223,925,1616
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","279","Nightingale Road, Budella, Vikaspuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",435,302,626
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","280","nullHastsal Road, Block A2, JJ Colony, Uttam Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1295,833,2011
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",458,325,644
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","283","nullVijay Marg, Block B, Baljit Nagar, Patel Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",914,705,1184
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","284","8/2, Rajendra Park, Nangloi Extension, Kamruddin Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",666,402,1101
+"165","31, Cottage Enclave, Paschim Vihar, Delhi","287","L47, Block L, Shastri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1099,839,1438

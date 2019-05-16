@@ -1,0 +1,106 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2837,2244,3586
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2850,2263,3588
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2974,2312,3823
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3184,2537,3995
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","7","P 13, Baird Place, Delhi Cantonment, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3089,2424,3935
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2461,1877,3225
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1459,1019,2088
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1860,1422,2432
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2150,1622,2849
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1943,1421,2655
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","13","10, Aurangzeb Road, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1602,1155,2221
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2195,1658,2905
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","15","H205, Block H, Sarojini Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2427,2054,2866
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2096,1543,2845
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","17","0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1847,1417,2407
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1481,1070,2048
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1591,1170,2161
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","25","nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2530,2008,3186
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","34","5/3, East Nathu Colony, GTB Enclave, Dilshad Garden, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1013,737,1391
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","40","Gali Saini Tent, Ram Nagar, Shahdara, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1262,927,1716
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","41","Lala Raghubar Dayal Marg, Phase 4, Block B, Subhash Park, Shahdara, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1256,835,1887
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1125,784,1613
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1530,1097,2133
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1577,1172,2120
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1662,1241,2224
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2691,2094,3456
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","66","nullBhagat Singh Market Marg, Block K, Malviya Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2811,2143,3686
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1675,1235,2271
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2665,1851,3834
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2488,2047,3022
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2423,1861,3153
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2803,2310,3400
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","76","124, SPG Quarters, Sector 4, Pushp Vihar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2387,1793,3176
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","80","E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2120,1666,2696
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2140,1579,2899
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1804,1358,2394
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1871,1269,2756
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2270,1761,2925
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","90","C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2786,2215,3503
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","91","nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2394,1869,3065
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","94","2212, Gautampuri Awas, Badarpur, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2740,2306,3254
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","96","0 Street Number 9, Noor Nagar Extension, Noor Nagar, Okhla, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2407,1859,3116
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2077,1543,2794
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","107","1100 Zia UL Haq Road, Block A1, Chattarpur, Chhattarpur, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3560,2825,4484
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","108","Unnamed Road, Block G, Bhim Basti, Jaunapur, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",4200,3499,5041
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","110","Pusta Road, Madanpur Khadar Phase 3, Madanpur Khadar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2461,1982,3054
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","111","61 TO 80, Pocket J, Sarita Vihar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2580,2067,3219
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","112","F-8, West Chandra Nagar, Chander Nagar, Krishna Nagar, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",829,478,1436
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","113","P-132, Anarkali Colony, Krishna Nagar, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",656,366,1173
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","116","9/5284, Shanti Mohalla, Seelampur, Shahdara, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1422,918,2200
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","118","0 Circular Road, Jawala Nagar, Shahdara, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",630,492,805
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","119","81, Zulfe Bengal, Dilshad Garden, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",732,492,1087
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","120","50, Pocket J & K, Dilshad Garden, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",750,501,1121
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1774,1251,2514
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2058,1494,2834
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","145","0 Trilok Puri Road, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1028,759,1391
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","147","0 Trilok Puri Road, Subhash Market, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",680,490,942
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","148","Unnamed Road, Patparganj, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",663,419,1047
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","149","Bharati Road, Block C 2, Block D, New Ashok Nagar, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1122,803,1565
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","150","Rajeev Gandhi Marg, Block 12, Kalyan Puri, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",534,462,616
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","151","Shaheed Budh Ram Singh Marg, Dallupura, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",379,95,1506
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","152","nullGharoli Main Road, Kondli Extension, Kondli, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",863,545,1364
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","153","0 Vivekanand Marg, Pocket A 3, Sector C, Mayur Vihar Phase III, नई दिल्ली","11/9/2016 - 11/9/2016, Every day, AM Peak",1101,504,2400
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",383,206,711
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3105,2517,3829
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3348,2665,4205
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","188","12/188, Shastri Nagar, Geeta Colony, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1056,699,1595
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","189","F22, Block F, Krishna Nagar, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1082,721,1622
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","190","F-33, Block F, Preet Vihar, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",478,194,1177
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","192","0 Bhartendu Harish Chandra Marg, Ram Vihar, Anand Vihar, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",427,253,718
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",921,594,1427
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","194","nullGali Number 1, Block G, Block A, Shakarpur, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",956,660,1382
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","195","F-208/C, Block F, Laxmi Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",960,598,1538
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","197","177-B, Mayur Vihar Phase 2, Pocket B, Mayur Vihar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",250,85,727
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","198","Gouri Sankar Road, Railway Colony, Mandawali, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",339,77,1488
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3659,3221,4155
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2110,1615,2755
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","215","Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2702,2152,3392
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","218","nullTandoor Wali Gali, Swami Shraddhanand Park, Bhalswa Dairy, Jahangirpura, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2861,2334,3506
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","221","Srinagar - Kanyakumari Highway, Bhalswa Jahangirpuri, Jahangirpuri, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2911,2381,3557
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3669,3000,4486
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3766,3060,4634
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","226","Unnamed Road, Model Town, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2681,2205,3258
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2262,1692,3022
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1604,1185,2170
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","247","9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3632,3159,4175
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3847,3113,4752
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","249","46, M.S Park, Vishwas Nagar, Shahdara, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",621,356,1082
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2231,1694,2937
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","252","813, Sector 1, RK Puram, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2396,1894,3029
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2377,1788,3158
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2401,1825,3157
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2092,1567,2791
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3513,3089,3995
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2908,2170,3895
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","261","Nangli Ibrahimpur Road, Kadipur, Kushak Colony, Kadipur Village, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",2759,2234,3407
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",508,303,850
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",596,333,1064
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1074,733,1572
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","266","Yamuna Marginal Bandh Marg, Block A, Shastri Park, Jagjit Nagar, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1677,1151,2442
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","267","nullPanduk Shila Marg, Kaithwara Jagjivan Nagar, New Usmanpur, Shahdara, Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1696,1169,2458
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","272","Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",3044,2249,4119
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1463,1050,2037
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","277","700 Outer Ring Road, Bhalswa Jahangir Village, Jahangirpuri, नई दिल्ली","11/9/2016 - 11/9/2016, Every day, AM Peak",2812,2287,3457
+"191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",1461,1034,2063

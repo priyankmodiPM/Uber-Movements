@@ -1,0 +1,114 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",975,705,1348
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",830,595,1156
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1213,833,1764
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1198,868,1652
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1345,995,1817
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","7","P 13, Baird Place, Delhi Cantonment, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1094,887,1348
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",760,516,1118
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1134,813,1581
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1305,966,1762
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1144,720,1815
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",959,677,1358
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","13","10, Aurangzeb Road, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",630,410,966
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","15","H205, Block H, Sarojini Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",161,64,399
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",313,164,595
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","17","0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",293,171,501
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1841,1409,2404
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1275,975,1666
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1756,1498,2058
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1870,1674,2088
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","32","METRO MALL, Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2519,2055,3087
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1100,771,1569
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",774,549,1090
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",679,439,1048
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",554,379,808
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",665,462,956
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","66","nullBhagat Singh Market Marg, Block K, Malviya Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1061,796,1413
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",401,245,654
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",949,672,1340
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",574,313,1052
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",678,440,1044
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",767,490,1199
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","72","7/254, Dakshinpuri Extension, Block 7, Sector 6, Dakshinpuri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1393,947,2046
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","76","124, SPG Quarters, Sector 4, Pushp Vihar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1402,1009,1947
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","77","0 Mehrauli - Badarpur Road, Tughlakabad Institutional Area, Vayusenabad, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1702,1337,2165
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","79","Shooting Range Road, Asola Wild Life Sanctuary, Asola, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1927,1748,2123
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","80","E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1170,794,1722
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","81","126, Block L 1, Alaknanda, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1199,945,1521
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",879,600,1286
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",960,657,1401
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",771,522,1137
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1074,789,1460
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","87","0 Maharaja Agarsen Marg, Subash Khand, Giri Nagar, Kalkaji, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1347,1051,1724
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","88","Krishan Marg, Tughlaqabad Village, Tughlakabad, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1943,1636,2307
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","89","A15/2, Chungi No 2, Kotla Mahingiran, Lal Kuan, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2180,1794,2648
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","90","C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1829,1423,2349
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","91","nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1340,1079,1663
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","94","2212, Gautampuri Awas, Badarpur, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1952,1473,2585
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","96","0 Street Number 9, Noor Nagar Extension, Noor Nagar, Okhla, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1477,1093,1995
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","100","Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2106,1362,3255
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1592,1225,2068
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","103","nullDasghara Road, Dasghara, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1372,850,2212
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1030,743,1427
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","106","IGNOU Residential Campus Road, Rocky Area, Stone Quarries, Maidan Garhi, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1498,1163,1928
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","107","1100 Zia UL Haq Road, Block A1, Chattarpur, Chhattarpur, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1641,1220,2205
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","108","Unnamed Road, Block G, Bhim Basti, Jaunapur, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2342,1880,2916
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","110","Pusta Road, Madanpur Khadar Phase 3, Madanpur Khadar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1708,1358,2146
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","111","61 TO 80, Pocket J, Sarita Vihar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1571,1252,1969
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1465,1097,1955
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2132,1443,3149
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1155,865,1541
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2547,1679,3862
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2258,1702,2995
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2785,1987,3903
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","143","nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2388,1926,2959
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","145","0 Trilok Puri Road, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1736,1073,2806
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","148","Unnamed Road, Patparganj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1216,864,1710
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","149","Bharati Road, Block C 2, Block D, New Ashok Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1583,1065,2350
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1870,1279,2732
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1740,1486,2037
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1654,1356,2016
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1779,1499,2110
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1606,1258,2049
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1553,1208,1996
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1950,1559,2438
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2014,1615,2511
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1717,1560,1889
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1932,1846,2021
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","189","F22, Block F, Krishna Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1975,1463,2665
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","190","F-33, Block F, Preet Vihar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2891,1751,4772
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1871,1494,2341
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1120,772,1624
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","194","nullGali Number 1, Block G, Block A, Shakarpur, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2747,1604,4702
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","195","F-208/C, Block F, Laxmi Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1798,1687,1916
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1929,1532,2427
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1748,1406,2173
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1800,1256,2578
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1767,1348,2315
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2032,1563,2641
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2362,1925,2897
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1289,974,1704
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1300,937,1803
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1404,1227,1605
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1095,806,1486
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","234","113, Press Colony, Press Colony, Mayapuri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1132,811,1579
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1499,1139,1971
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",642,452,911
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","247","9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1817,1394,2366
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1867,1275,2733
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","250","719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1785,1397,2279
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1503,1068,2114
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","252","813, Sector 1, RK Puram, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",352,207,596
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",176,79,391
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",413,227,748
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",220,116,414
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1784,1396,2278
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","258","Sant Sujan Singh Marg, JJ Colony, Block N, Tagore Garden, Tagore Garden Extension, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1565,1295,1890
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",972,714,1322
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1775,1238,2544
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1799,1219,2654
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1984,1357,2900
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","272","Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1169,876,1558
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",940,667,1323
+"14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1427,1037,1963

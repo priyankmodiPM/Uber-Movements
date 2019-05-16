@@ -1,0 +1,6 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"21","3800 Prem Narain Road, Hauz Qazi, Sitaram Bazar, Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",443,299,655
+"21","3800 Prem Narain Road, Hauz Qazi, Sitaram Bazar, Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",194,56,664
+"21","3800 Prem Narain Road, Hauz Qazi, Sitaram Bazar, Delhi","97","1664, Bazar Chitli Qabar, Hauz Suiwalan, Chandni Chowk, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",50,33,73
+"21","3800 Prem Narain Road, Hauz Qazi, Sitaram Bazar, Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",670,566,792
+"21","3800 Prem Narain Road, Hauz Qazi, Sitaram Bazar, Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/9/2016 - 11/9/2016, Every day, AM Peak",432,296,629

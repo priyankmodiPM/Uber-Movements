@@ -1,0 +1,6 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"33","Unnamed Road, Samashpur Khalsa, Delhi","30","Unnamed Road, Asalatpur Khadar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1293,1005,1663
+"33","Unnamed Road, Samashpur Khalsa, Delhi","31","Main Jhatikra Road, Paprawat, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1014,504,2039
+"33","Unnamed Road, Samashpur Khalsa, Delhi","144","Najafgarh Road, Indra Park, Block A, Masudabad, Najafgarh, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",940,557,1584
+"33","Unnamed Road, Samashpur Khalsa, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2850,2219,3660
+"33","Unnamed Road, Samashpur Khalsa, Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2087,1553,2804

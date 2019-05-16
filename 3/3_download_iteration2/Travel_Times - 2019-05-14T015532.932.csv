@@ -1,0 +1,158 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",318,230,439
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",190,94,381
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",316,151,658
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",336,195,576
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",477,302,753
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","6","Unnamed Road, CVD Line, Delhi Cantonment, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",627,393,999
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","7","P 13, Baird Place, Delhi Cantonment, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",311,124,775
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",991,771,1272
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",893,682,1167
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",236,74,749
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",820,608,1105
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","13","10, Aurangzeb Road, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",727,551,957
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",607,440,836
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","15","H205, Block H, Sarojini Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",871,566,1339
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",250,87,715
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","17","0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",854,633,1151
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1618,1331,1966
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1163,926,1459
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","23","nullStreet Number 5 NA Block, NA Block, Khayala, Vishnu Garden, नई दिल्ली","11/5/2016 - 11/5/2016, Every day, AM Peak",1111,770,1601
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",974,655,1447
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1123,813,1551
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","27","0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",751,478,1178
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","28","nullSchool Road, Block M, Uttam Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1130,879,1451
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","29","Street Number 14, Block C, Sitapuri Part 1, Janakpuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",952,699,1295
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","32","METRO MALL, Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1712,1497,1957
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1290,979,1698
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1209,946,1544
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1485,912,2415
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1149,810,1628
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1253,878,1786
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","66","nullBhagat Singh Market Marg, Block K, Malviya Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1583,1233,2031
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1021,712,1462
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1021,653,1596
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1058,661,1692
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",223,57,866
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1156,765,1746
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","72","7/254, Dakshinpuri Extension, Block 7, Sector 6, Dakshinpuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1484,1240,1775
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","73","0 Central Avenue, Block E, Sainik Farm, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1932,1695,2201
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","74","F-269, Ambedkar Nagar, Block F, Sector 5, Dakshinpuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2026,1816,2259
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","76","124, SPG Quarters, Sector 4, Pushp Vihar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1676,1375,2042
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","77","0 Mehrauli - Badarpur Road, Tughlakabad Institutional Area, Vayusenabad, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2132,1799,2526
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","80","E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1445,1143,1825
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","81","126, Block L 1, Alaknanda, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1694,1223,2344
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1384,1007,1901
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1658,1092,2515
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1503,1061,2127
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1876,1496,2351
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","87","0 Maharaja Agarsen Marg, Subash Khand, Giri Nagar, Kalkaji, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1979,1658,2360
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","90","C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2402,2086,2765
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","91","nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2015,1623,2500
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","94","2212, Gautampuri Awas, Badarpur, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2426,2101,2801
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","100","Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1105,913,1337
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1159,913,1470
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","103","nullDasghara Road, Dasghara, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",267,170,417
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",360,255,506
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","106","IGNOU Residential Campus Road, Rocky Area, Stone Quarries, Maidan Garhi, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2211,1838,2659
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","107","1100 Zia UL Haq Road, Block A1, Chattarpur, Chhattarpur, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1918,1640,2243
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","108","Unnamed Road, Block G, Bhim Basti, Jaunapur, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1658,1419,1936
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","110","Pusta Road, Madanpur Khadar Phase 3, Madanpur Khadar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2591,1917,3500
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","111","61 TO 80, Pocket J, Sarita Vihar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2269,1662,3097
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","119","81, Zulfe Bengal, Dilshad Garden, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2582,2295,2904
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",732,584,916
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","122","2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",836,592,1178
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1082,755,1549
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",508,380,678
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","127","NDPL House, Lala Achintaram Marg, Block B, Gujranwala Town, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1519,739,3119
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","129","Gali Number 8, Anand Parbat, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1600,1262,2028
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1343,1110,1623
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1903,1410,2566
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1824,868,3832
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","135","0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1077,840,1380
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","136","nullKeshopur Road, New Chaukhandi, Paschim Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1894,1346,2663
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","137","nullRoad Number 235, Block H, Vikaspuri, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1532,1134,2069
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","142","Gali Number 1, Dabri Village, Dabri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",867,561,1338
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","143","nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1505,1111,2037
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2150,1781,2594
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","148","Unnamed Road, Patparganj, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1626,1244,2124
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","151","Shaheed Budh Ram Singh Marg, Dallupura, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2347,1891,2911
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1808,1384,2361
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","155","Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1170,765,1789
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1190,890,1589
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","157","CH Devender Singh Tewatia Marg, Ashok Vihar II, Pocket B 1, Phase 3, Ashok Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1440,1301,1593
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1020,753,1381
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1283,851,1934
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",933,662,1313
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1608,1218,2121
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",895,700,1143
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1185,913,1537
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1338,1018,1758
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1220,1000,1488
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1899,1326,2718
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1223,939,1591
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","171","nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1787,1438,2220
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1564,1233,1982
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","173","Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1828,1419,2353
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","175","235, Block E, Block E, Mangolpuri, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2083,1540,2815
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","176","B7-187, Pocket 7, Sector 3B, Rohini, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2094,1555,2819
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","178","I334, Saini Mohalla, Shiv Vihar, Nangloi, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1503,1327,1702
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","179","0 AB Road, Block RR, Mianwali Nagar, Paschim Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1346,1159,1562
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","180","GH-14/234, GH 14, Block GH 14, Paschim Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1515,1188,1931
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","189","F22, Block F, Krishna Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2646,1618,4325
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","190","F-33, Block F, Preet Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2019,1803,2260
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1870,1616,2163
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","192","0 Bhartendu Harish Chandra Marg, Ram Vihar, Anand Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2390,2196,2600
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1564,1157,2113
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","194","nullGali Number 1, Block G, Block A, Shakarpur, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1614,1409,1847
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","195","F-208/C, Block F, Laxmi Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1757,1482,2081
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","196","nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1968,1563,2477
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1123,882,1429
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1064,800,1413
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","203","Shahid Hav. Ved Prakash Sharma Marg, Netaji Subhash Vihar, Mundka, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1883,1686,2102
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",928,675,1274
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","206","0 Arya Samaj Road, Block 12B, Dev Nagar, Karol Bagh, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1084,883,1330
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",956,675,1353
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",899,673,1199
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","214","Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1492,1283,1733
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","215","Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2348,1568,3515
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",642,448,919
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",799,587,1086
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1587,1185,2123
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","225","0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1326,1085,1619
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","226","Unnamed Road, Model Town, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1487,1230,1797
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1941,1664,2262
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2292,1638,3206
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",611,471,791
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","230","N494, Block N, Raghubir Nagar, Tagore Garden Extension, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1047,702,1560
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",545,411,721
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",606,407,900
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",442,310,628
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","234","113, Press Colony, Press Colony, Mayapuri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",461,342,620
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","235","nullBharat Vihar Road, Block G, Raja Puri, Matiala, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1340,1162,1544
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","237","121, Assam Timber Market, Gulshan Park, Mundka, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1746,1555,1959
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","240","37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2592,1802,3728
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",799,613,1040
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","245","N-1/17, Block M, Mangolpuri, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",2067,1570,2720
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1226,848,1772
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","247","9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",973,671,1409
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",845,606,1177
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","250","719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",905,803,1019
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",550,416,726
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","252","813, Sector 1, RK Puram, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",454,278,741
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",855,551,1325
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1202,768,1881
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",855,625,1167
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",906,655,1252
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","258","Sant Sujan Singh Marg, JJ Colony, Block N, Tagore Garden, Tagore Garden Extension, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1011,749,1363
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1598,1246,2048
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1794,1371,2347
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1748,1297,2355
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1814,1264,2602
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","266","Yamuna Marginal Bandh Marg, Block A, Shastri Park, Jagjit Nagar, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1956,1782,2146
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","272","Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1743,1458,2082
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1409,1086,1827
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","279","Nightingale Road, Budella, Vikaspuri, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1516,1099,2090
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1373,990,1903
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1228,962,1566
+"8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","284","8/2, Rajendra Park, Nangloi Extension, Kamruddin Nagar, Delhi","11/5/2016 - 11/5/2016, Every day, AM Peak",1620,1451,1807

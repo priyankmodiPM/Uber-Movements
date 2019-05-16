@@ -1,0 +1,41 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",3258,2702,3928
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",3338,2724,4089
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",3591,2995,4305
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",3037,2343,3936
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1880,1346,2624
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2510,1911,3295
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","13","10, Aurangzeb Road, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2225,1597,3099
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2826,2193,3640
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2478,1847,3322
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1589,1169,2159
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1873,1394,2515
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","40","Gali Saini Tent, Ram Nagar, Shahdara, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",667,496,895
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","41","Lala Raghubar Dayal Marg, Phase 4, Block B, Subhash Park, Shahdara, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",563,389,814
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1779,1242,2546
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2786,2136,3632
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","112","F-8, West Chandra Nagar, Chander Nagar, Krishna Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",630,309,1283
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","115","0 Street Number 3, Azad Nagar, Azad Nagar East, Seelampur, Krishna Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",392,270,568
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","116","9/5284, Shanti Mohalla, Seelampur, Shahdara, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",583,406,835
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","117","B533, Bhola Nath Nagar, Block B, Shahdara, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",408,273,608
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1750,1067,2869
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1962,1364,2820
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","148","Unnamed Road, Patparganj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1286,957,1726
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","188","12/188, Shastri Nagar, Geeta Colony, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1004,688,1463
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","189","F22, Block F, Krishna Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",592,236,1482
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","190","F-33, Block F, Preet Vihar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",327,114,930
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",389,335,450
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","192","0 Bhartendu Harish Chandra Marg, Ram Vihar, Anand Vihar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",299,170,523
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1345,914,1977
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","194","nullGali Number 1, Block G, Block A, Shakarpur, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",870,561,1347
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","195","F-208/C, Block F, Laxmi Nagar, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",738,469,1159
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",3991,3519,4525
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",4232,3677,4869
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2234,1506,3312
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",4281,3829,4785
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","249","46, M.S Park, Vishwas Nagar, Shahdara, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",138,52,359
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",2945,2280,3802
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1090,817,1453
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1084,747,1572
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",994,659,1498
+"113","P-132, Anarkali Colony, Krishna Nagar, Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/4/2016 - 11/4/2016, Every day, AM Peak",1559,1087,2234

@@ -1,0 +1,77 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"245","N-1/17, Block M, Mangolpuri, Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2311,1798,2969
+"245","N-1/17, Block M, Mangolpuri, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",3878,3236,4647
+"245","N-1/17, Block M, Mangolpuri, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",3384,2227,5141
+"245","N-1/17, Block M, Mangolpuri, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",3414,2760,4221
+"245","N-1/17, Block M, Mangolpuri, Delhi","7","P 13, Baird Place, Delhi Cantonment, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2396,1901,3018
+"245","N-1/17, Block M, Mangolpuri, Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2982,2469,3600
+"245","N-1/17, Block M, Mangolpuri, Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",3054,2711,3439
+"245","N-1/17, Block M, Mangolpuri, Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",3117,2411,4028
+"245","N-1/17, Block M, Mangolpuri, Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",3371,2602,4365
+"245","N-1/17, Block M, Mangolpuri, Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1274,821,1976
+"245","N-1/17, Block M, Mangolpuri, Delhi","25","nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1269,932,1727
+"245","N-1/17, Block M, Mangolpuri, Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1217,928,1595
+"245","N-1/17, Block M, Mangolpuri, Delhi","27","0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1619,1271,2061
+"245","N-1/17, Block M, Mangolpuri, Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",3330,2436,4551
+"245","N-1/17, Block M, Mangolpuri, Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2900,2612,3219
+"245","N-1/17, Block M, Mangolpuri, Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2230,1853,2682
+"245","N-1/17, Block M, Mangolpuri, Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1191,917,1545
+"245","N-1/17, Block M, Mangolpuri, Delhi","122","2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1749,1423,2148
+"245","N-1/17, Block M, Mangolpuri, Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1388,1112,1731
+"245","N-1/17, Block M, Mangolpuri, Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1788,1447,2209
+"245","N-1/17, Block M, Mangolpuri, Delhi","129","Gali Number 8, Anand Parbat, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1582,1296,1929
+"245","N-1/17, Block M, Mangolpuri, Delhi","135","0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1245,961,1611
+"245","N-1/17, Block M, Mangolpuri, Delhi","136","nullKeshopur Road, New Chaukhandi, Paschim Vihar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",924,646,1319
+"245","N-1/17, Block M, Mangolpuri, Delhi","137","nullRoad Number 235, Block H, Vikaspuri, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",935,676,1292
+"245","N-1/17, Block M, Mangolpuri, Delhi","142","Gali Number 1, Dabri Village, Dabri, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1772,1447,2169
+"245","N-1/17, Block M, Mangolpuri, Delhi","143","nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2628,2388,2891
+"245","N-1/17, Block M, Mangolpuri, Delhi","146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1231,699,2167
+"245","N-1/17, Block M, Mangolpuri, Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1127,853,1488
+"245","N-1/17, Block M, Mangolpuri, Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",817,470,1420
+"245","N-1/17, Block M, Mangolpuri, Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1136,836,1542
+"245","N-1/17, Block M, Mangolpuri, Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",403,238,681
+"245","N-1/17, Block M, Mangolpuri, Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",837,623,1123
+"245","N-1/17, Block M, Mangolpuri, Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",630,419,946
+"245","N-1/17, Block M, Mangolpuri, Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",692,477,1003
+"245","N-1/17, Block M, Mangolpuri, Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",825,490,1387
+"245","N-1/17, Block M, Mangolpuri, Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1094,674,1775
+"245","N-1/17, Block M, Mangolpuri, Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",710,442,1139
+"245","N-1/17, Block M, Mangolpuri, Delhi","174","Road Number 316, Mangol Puri Industrial Area Phase I, Block Q, Mangolpuri, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",225,80,629
+"245","N-1/17, Block M, Mangolpuri, Delhi","175","235, Block E, Block E, Mangolpuri, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",206,98,430
+"245","N-1/17, Block M, Mangolpuri, Delhi","176","B7-187, Pocket 7, Sector 3B, Rohini, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",172,58,504
+"245","N-1/17, Block M, Mangolpuri, Delhi","185","Bawana Road, Puth Khurd, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",682,450,1033
+"245","N-1/17, Block M, Mangolpuri, Delhi","186","14, Sector 21, Rohini, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",526,309,893
+"245","N-1/17, Block M, Mangolpuri, Delhi","187","60, Vijay Vihar Phase II, Pocket C, Sector 1, Rohini, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",215,92,499
+"245","N-1/17, Block M, Mangolpuri, Delhi","196","nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",796,409,1547
+"245","N-1/17, Block M, Mangolpuri, Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1341,1092,1645
+"245","N-1/17, Block M, Mangolpuri, Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2144,1833,2506
+"245","N-1/17, Block M, Mangolpuri, Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1893,1566,2286
+"245","N-1/17, Block M, Mangolpuri, Delhi","205","2100 Gali Number 14, Block B, Prem Nagar, Patel Nagar, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1634,1311,2036
+"245","N-1/17, Block M, Mangolpuri, Delhi","207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2068,1754,2437
+"245","N-1/17, Block M, Mangolpuri, Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2559,2279,2873
+"245","N-1/17, Block M, Mangolpuri, Delhi","215","Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1141,821,1585
+"245","N-1/17, Block M, Mangolpuri, Delhi","216","0 Main Canal Road, Harit Vihar, Mukandpur Part 2, Mukundpur, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1133,758,1691
+"245","N-1/17, Block M, Mangolpuri, Delhi","218","nullTandoor Wali Gali, Swami Shraddhanand Park, Bhalswa Dairy, Jahangirpura, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",891,597,1328
+"245","N-1/17, Block M, Mangolpuri, Delhi","219","461, Block AG, Sanjay Gandhi Transport Nagar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",797,531,1194
+"245","N-1/17, Block M, Mangolpuri, Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",4290,3712,4957
+"245","N-1/17, Block M, Mangolpuri, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",4240,3705,4850
+"245","N-1/17, Block M, Mangolpuri, Delhi","224","Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",3387,3051,3759
+"245","N-1/17, Block M, Mangolpuri, Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1743,1137,2671
+"245","N-1/17, Block M, Mangolpuri, Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1435,1139,1806
+"245","N-1/17, Block M, Mangolpuri, Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1424,1068,1898
+"245","N-1/17, Block M, Mangolpuri, Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1771,1222,2566
+"245","N-1/17, Block M, Mangolpuri, Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1852,1155,2967
+"245","N-1/17, Block M, Mangolpuri, Delhi","236","nullRithala Road, Pocket A, Budh Vihar Phase I, Budh Vihar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",322,262,394
+"245","N-1/17, Block M, Mangolpuri, Delhi","240","37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",800,512,1249
+"245","N-1/17, Block M, Mangolpuri, Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1232,950,1596
+"245","N-1/17, Block M, Mangolpuri, Delhi","247","9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2434,2074,2856
+"245","N-1/17, Block M, Mangolpuri, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",4602,4083,5186
+"245","N-1/17, Block M, Mangolpuri, Delhi","250","719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",835,706,987
+"245","N-1/17, Block M, Mangolpuri, Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",2384,2188,2597
+"245","N-1/17, Block M, Mangolpuri, Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1983,1659,2370
+"245","N-1/17, Block M, Mangolpuri, Delhi","257","y 788, Block W, Mangolpur Khurd, Mangolpuri, नई दिल्ली","11/2/2016 - 11/2/2016, Every day, AM Peak",211,52,841
+"245","N-1/17, Block M, Mangolpuri, Delhi","261","Nangli Ibrahimpur Road, Kadipur, Kushak Colony, Kadipur Village, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1025,694,1512
+"245","N-1/17, Block M, Mangolpuri, Delhi","277","700 Outer Ring Road, Bhalswa Jahangir Village, Jahangirpuri, नई दिल्ली","11/2/2016 - 11/2/2016, Every day, AM Peak",919,632,1334
+"245","N-1/17, Block M, Mangolpuri, Delhi","279","Nightingale Road, Budella, Vikaspuri, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",987,694,1402
+"245","N-1/17, Block M, Mangolpuri, Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1056,753,1479
+"245","N-1/17, Block M, Mangolpuri, Delhi","283","nullVijay Marg, Block B, Baljit Nagar, Patel Nagar, New Delhi","11/2/2016 - 11/2/2016, Every day, AM Peak",1579,1266,1968

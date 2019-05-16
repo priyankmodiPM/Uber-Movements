@@ -1,0 +1,4 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"269","Street Number 2, Chandu Nagar, New Mustafabad, Delhi","46","256, Block C 2, Bhajanpura, Tukhmirpur, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",371,222,617
+"269","Street Number 2, Chandu Nagar, New Mustafabad, Delhi","57","Angad Singh Marg, Nehru Vihar, Block B, Old Mustafabad, New Mustafabad, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",161,62,414
+"269","Street Number 2, Chandu Nagar, New Mustafabad, Delhi","58","Pushta Road, Block A, Rajiv Nagar, Sonia Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",162,108,242

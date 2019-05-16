@@ -1,0 +1,98 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"189","F22, Block F, Krishna Nagar, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2652,1883,3733
+"189","F22, Block F, Krishna Nagar, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2712,1910,3850
+"189","F22, Block F, Krishna Nagar, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2787,1915,4054
+"189","F22, Block F, Krishna Nagar, Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2690,1908,3791
+"189","F22, Block F, Krishna Nagar, Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1353,904,2024
+"189","F22, Block F, Krishna Nagar, Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1519,1103,2090
+"189","F22, Block F, Krishna Nagar, Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2296,1605,3283
+"189","F22, Block F, Krishna Nagar, Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1788,1134,2818
+"189","F22, Block F, Krishna Nagar, Delhi","13","10, Aurangzeb Road, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1494,1067,2090
+"189","F22, Block F, Krishna Nagar, Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1995,1579,2519
+"189","F22, Block F, Krishna Nagar, Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1997,1371,2907
+"189","F22, Block F, Krishna Nagar, Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",368,207,652
+"189","F22, Block F, Krishna Nagar, Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1080,702,1660
+"189","F22, Block F, Krishna Nagar, Delhi","25","nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1161,773,1742
+"189","F22, Block F, Krishna Nagar, Delhi","34","5/3, East Nathu Colony, GTB Enclave, Dilshad Garden, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1517,719,3199
+"189","F22, Block F, Krishna Nagar, Delhi","40","Gali Saini Tent, Ram Nagar, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",805,411,1575
+"189","F22, Block F, Krishna Nagar, Delhi","41","Lala Raghubar Dayal Marg, Phase 4, Block B, Subhash Park, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",690,347,1369
+"189","F22, Block F, Krishna Nagar, Delhi","43","A537, New Seelampur Phase II, New Seelampur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",667,357,1243
+"189","F22, Block F, Krishna Nagar, Delhi","48","Kardam Marg, Block B, Kabir Nagar, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1258,803,1969
+"189","F22, Block F, Krishna Nagar, Delhi","50","Saraswati Marg, Babarpur Village, Babarpur, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",943,597,1487
+"189","F22, Block F, Krishna Nagar, Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1158,741,1809
+"189","F22, Block F, Krishna Nagar, Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1522,1241,1865
+"189","F22, Block F, Krishna Nagar, Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1719,1260,2345
+"189","F22, Block F, Krishna Nagar, Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2390,1667,3426
+"189","F22, Block F, Krishna Nagar, Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1456,1118,1895
+"189","F22, Block F, Krishna Nagar, Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1507,1119,2028
+"189","F22, Block F, Krishna Nagar, Delhi","103","nullDasghara Road, Dasghara, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",3150,2405,4124
+"189","F22, Block F, Krishna Nagar, Delhi","112","F-8, West Chandra Nagar, Chander Nagar, Krishna Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",373,227,611
+"189","F22, Block F, Krishna Nagar, Delhi","113","P-132, Anarkali Colony, Krishna Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",409,182,917
+"189","F22, Block F, Krishna Nagar, Delhi","114","9/434, Gandhi Nagar, Seelampur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",172,71,412
+"189","F22, Block F, Krishna Nagar, Delhi","115","0 Street Number 3, Azad Nagar, Azad Nagar East, Seelampur, Krishna Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",349,151,804
+"189","F22, Block F, Krishna Nagar, Delhi","116","9/5284, Shanti Mohalla, Seelampur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",516,276,961
+"189","F22, Block F, Krishna Nagar, Delhi","117","B533, Bhola Nath Nagar, Block B, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",370,155,882
+"189","F22, Block F, Krishna Nagar, Delhi","119","81, Zulfe Bengal, Dilshad Garden, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1562,726,3356
+"189","F22, Block F, Krishna Nagar, Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2808,2097,3759
+"189","F22, Block F, Krishna Nagar, Delhi","127","NDPL House, Lala Achintaram Marg, Block B, Gujranwala Town, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1411,1074,1853
+"189","F22, Block F, Krishna Nagar, Delhi","128","0 Shakti Mandir Marg, Block 10, Shakti Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1422,1032,1958
+"189","F22, Block F, Krishna Nagar, Delhi","129","Gali Number 8, Anand Parbat, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2022,1437,2843
+"189","F22, Block F, Krishna Nagar, Delhi","130","Bhagat Singh Marg, Kashmiri Bagh, Chandra Shekhar Azad Colony, Sarai Rohilla, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1603,1115,2304
+"189","F22, Block F, Krishna Nagar, Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1363,915,2028
+"189","F22, Block F, Krishna Nagar, Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",677,389,1176
+"189","F22, Block F, Krishna Nagar, Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",891,583,1359
+"189","F22, Block F, Krishna Nagar, Delhi","146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2464,2040,2974
+"189","F22, Block F, Krishna Nagar, Delhi","148","Unnamed Road, Patparganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",749,478,1172
+"189","F22, Block F, Krishna Nagar, Delhi","149","Bharati Road, Block C 2, Block D, New Ashok Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",826,610,1117
+"189","F22, Block F, Krishna Nagar, Delhi","151","Shaheed Budh Ram Singh Marg, Dallupura, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",971,659,1428
+"189","F22, Block F, Krishna Nagar, Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",505,392,649
+"189","F22, Block F, Krishna Nagar, Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2031,1577,2614
+"189","F22, Block F, Krishna Nagar, Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2346,1525,3608
+"189","F22, Block F, Krishna Nagar, Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",3235,2182,4793
+"189","F22, Block F, Krishna Nagar, Delhi","162","2400 Pt Govind Ram Shastri Marg, Ganeshpura, Tri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2053,1654,2547
+"189","F22, Block F, Krishna Nagar, Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2262,1546,3308
+"189","F22, Block F, Krishna Nagar, Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",3357,2377,4740
+"189","F22, Block F, Krishna Nagar, Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1665,1275,2172
+"189","F22, Block F, Krishna Nagar, Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1899,1453,2481
+"189","F22, Block F, Krishna Nagar, Delhi","171","nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2147,1702,2708
+"189","F22, Block F, Krishna Nagar, Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1962,1468,2622
+"189","F22, Block F, Krishna Nagar, Delhi","173","Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2148,1685,2736
+"189","F22, Block F, Krishna Nagar, Delhi","188","12/188, Shastri Nagar, Geeta Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",171,55,524
+"189","F22, Block F, Krishna Nagar, Delhi","190","F-33, Block F, Preet Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",526,324,851
+"189","F22, Block F, Krishna Nagar, Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",723,507,1029
+"189","F22, Block F, Krishna Nagar, Delhi","192","0 Bhartendu Harish Chandra Marg, Ram Vihar, Anand Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1582,776,3222
+"189","F22, Block F, Krishna Nagar, Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",518,188,1423
+"189","F22, Block F, Krishna Nagar, Delhi","194","nullGali Number 1, Block G, Block A, Shakarpur, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",690,404,1175
+"189","F22, Block F, Krishna Nagar, Delhi","195","F-208/C, Block F, Laxmi Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",495,243,1005
+"189","F22, Block F, Krishna Nagar, Delhi","196","nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2263,1825,2804
+"189","F22, Block F, Krishna Nagar, Delhi","197","177-B, Mayur Vihar Phase 2, Pocket B, Mayur Vihar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",647,468,894
+"189","F22, Block F, Krishna Nagar, Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2250,1796,2818
+"189","F22, Block F, Krishna Nagar, Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2587,2205,3034
+"189","F22, Block F, Krishna Nagar, Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1627,1232,2146
+"189","F22, Block F, Krishna Nagar, Delhi","214","Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1129,809,1574
+"189","F22, Block F, Krishna Nagar, Delhi","215","Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1338,909,1969
+"189","F22, Block F, Krishna Nagar, Delhi","218","nullTandoor Wali Gali, Swami Shraddhanand Park, Bhalswa Dairy, Jahangirpura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1585,1153,2178
+"189","F22, Block F, Krishna Nagar, Delhi","219","461, Block AG, Sanjay Gandhi Transport Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1665,1253,2211
+"189","F22, Block F, Krishna Nagar, Delhi","221","Srinagar - Kanyakumari Highway, Bhalswa Jahangirpuri, Jahangirpuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1570,1183,2082
+"189","F22, Block F, Krishna Nagar, Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2808,2283,3452
+"189","F22, Block F, Krishna Nagar, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2942,2397,3610
+"189","F22, Block F, Krishna Nagar, Delhi","226","Unnamed Road, Model Town, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1363,942,1971
+"189","F22, Block F, Krishna Nagar, Delhi","227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1142,871,1497
+"189","F22, Block F, Krishna Nagar, Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1034,698,1531
+"189","F22, Block F, Krishna Nagar, Delhi","240","37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1915,1396,2625
+"189","F22, Block F, Krishna Nagar, Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1532,1147,2046
+"189","F22, Block F, Krishna Nagar, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2915,2410,3524
+"189","F22, Block F, Krishna Nagar, Delhi","249","46, M.S Park, Vishwas Nagar, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",294,69,1247
+"189","F22, Block F, Krishna Nagar, Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2391,1809,3158
+"189","F22, Block F, Krishna Nagar, Delhi","252","813, Sector 1, RK Puram, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1853,1581,2170
+"189","F22, Block F, Krishna Nagar, Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1933,1534,2434
+"189","F22, Block F, Krishna Nagar, Delhi","261","Nangli Ibrahimpur Road, Kadipur, Kushak Colony, Kadipur Village, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1511,1062,2149
+"189","F22, Block F, Krishna Nagar, Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",566,366,875
+"189","F22, Block F, Krishna Nagar, Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",510,247,1050
+"189","F22, Block F, Krishna Nagar, Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",331,148,737
+"189","F22, Block F, Krishna Nagar, Delhi","266","Yamuna Marginal Bandh Marg, Block A, Shastri Park, Jagjit Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",653,324,1312
+"189","F22, Block F, Krishna Nagar, Delhi","267","nullPanduk Shila Marg, Kaithwara Jagjivan Nagar, New Usmanpur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",917,573,1466
+"189","F22, Block F, Krishna Nagar, Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1250,990,1576
+"189","F22, Block F, Krishna Nagar, Delhi","277","700 Outer Ring Road, Bhalswa Jahangir Village, Jahangirpuri, नई दिल्ली","11/1/2016 - 11/1/2016, Every day, AM Peak",1451,1096,1920
+"189","F22, Block F, Krishna Nagar, Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",517,218,1225
+"189","F22, Block F, Krishna Nagar, Delhi","287","L47, Block L, Shastri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2052,1583,2658

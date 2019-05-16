@@ -1,0 +1,123 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",945,686,1300
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1196,914,1563
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2176,1729,2737
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2217,1829,2687
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2441,1999,2980
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","7","P 13, Baird Place, Delhi Cantonment, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1561,1249,1949
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1601,1245,2057
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2259,1621,3146
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1812,1339,2451
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1599,1212,2108
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2150,1708,2704
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","13","10, Aurangzeb Road, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2502,1969,3178
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2371,1887,2977
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1679,1267,2223
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","17","0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2736,2396,3124
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2677,1381,5187
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2073,1518,2829
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1235,949,1606
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","25","nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2729,1565,4756
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1441,1240,1673
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2984,2551,3489
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3248,2919,3613
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3168,2460,4078
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2802,2212,3549
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2887,2310,3608
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2488,2022,3060
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2495,1965,3167
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1657,1262,2174
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2747,2195,3437
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3163,2593,3857
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3394,2704,4259
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3505,2641,4650
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3823,3122,4679
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","99","100 Street Number 1, Amar Puri, Ram Nagar, Paharganj, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1674,1246,2247
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","100","Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1273,873,1854
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1611,1168,2221
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","103","nullDasghara Road, Dasghara, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1004,641,1571
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",827,617,1107
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","107","1100 Zia UL Haq Road, Block A1, Chattarpur, Chhattarpur, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",4318,3349,5565
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","108","Unnamed Road, Block G, Bhim Basti, Jaunapur, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",5242,4526,6071
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",236,134,414
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","122","2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",818,609,1097
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",434,283,663
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",572,413,790
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","127","NDPL House, Lala Achintaram Marg, Block B, Gujranwala Town, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",928,605,1422
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","128","0 Shakti Mandir Marg, Block 10, Shakti Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1049,733,1499
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","129","Gali Number 8, Anand Parbat, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",487,298,794
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","130","Bhagat Singh Marg, Kashmiri Bagh, Chandra Shekhar Azad Colony, Sarai Rohilla, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",800,582,1098
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1143,786,1660
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2624,1592,4323
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2272,1303,3960
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","135","0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",920,722,1171
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","146","nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1370,1036,1811
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","148","Unnamed Road, Patparganj, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",4015,2760,5840
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","155","Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",397,252,624
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",213,108,418
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","157","CH Devender Singh Tewatia Marg, Ashok Vihar II, Pocket B 1, Phase 3, Ashok Vihar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",774,550,1088
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","158","484, Block E, Nimri Colony, Ashok Vihar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",729,477,1112
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",174,68,441
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","160","23, Shiva Enclave, Pitampura, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",486,124,1900
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","162","2400 Pt Govind Ram Shastri Marg, Ganeshpura, Tri Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",413,174,978
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",576,310,1070
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",123,59,256
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",597,443,802
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",849,575,1252
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",353,225,552
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1298,768,2192
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",321,175,588
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","171","nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",930,646,1337
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1017,628,1646
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","173","Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1096,739,1623
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","175","235, Block E, Block E, Mangolpuri, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",551,445,681
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","176","B7-187, Pocket 7, Sector 3B, Rohini, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",583,490,692
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","186","14, Sector 21, Rohini, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1441,1137,1825
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","188","12/188, Shastri Nagar, Geeta Colony, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3758,2509,5627
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","189","F22, Block F, Krishna Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3734,2466,5652
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3913,2871,5332
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2879,1842,4498
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","196","nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1157,890,1503
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",286,158,514
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","200","Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2024,1735,2360
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1019,742,1398
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","205","2100 Gali Number 14, Block B, Prem Nagar, Patel Nagar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",664,457,963
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",909,573,1441
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1350,938,1942
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","209","nullMaharaja Agarsen Marg, Block A, CC Colony, Kalyan Vihar, नई दिल्ली","9/1/2016 - 9/1/2016, Every day, AM Peak",1349,983,1850
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","214","Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1332,913,1941
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","215","Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2434,1355,4371
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","218","nullTandoor Wali Gali, Swami Shraddhanand Park, Bhalswa Dairy, Jahangirpura, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1919,948,3881
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","219","461, Block AG, Sanjay Gandhi Transport Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1794,971,3312
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","221","Srinagar - Kanyakumari Highway, Bhalswa Jahangirpuri, Jahangirpuri, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1355,670,2736
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3020,2391,3813
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3198,2532,4038
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","225","0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",492,327,739
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","226","Unnamed Road, Model Town, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",961,524,1762
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1324,922,1901
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2175,1275,3709
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",377,262,542
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",563,363,872
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1038,893,1205
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",706,498,1000
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","234","113, Press Colony, Press Colony, Mayapuri, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",684,476,982
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","240","37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1673,944,2961
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",150,80,279
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3388,2645,4338
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","250","719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",454,302,681
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1412,1129,1765
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","252","813, Sector 1, RK Puram, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2087,1638,2657
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2412,1879,3095
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2791,2311,3370
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2757,2220,3423
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3396,2745,4199
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","261","Nangli Ibrahimpur Road, Kadipur, Kushak Colony, Kadipur Village, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2356,957,5798
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3890,2647,5714
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3509,2279,5401
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3309,2070,5289
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","272","Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",3859,2919,5101
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","277","700 Outer Ring Road, Bhalswa Jahangir Village, Jahangirpuri, नई दिल्ली","9/1/2016 - 9/1/2016, Every day, AM Peak",2075,868,4957
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",1347,1063,1706
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",2567,1628,4046
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","283","nullVijay Marg, Block B, Baljit Nagar, Patel Nagar, New Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",618,443,860
+"161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","287","L47, Block L, Shastri Nagar, Delhi","9/1/2016 - 9/1/2016, Every day, AM Peak",693,480,1000

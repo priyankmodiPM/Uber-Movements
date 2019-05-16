@@ -1,0 +1,88 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2098,1528,2879
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2466,1715,3544
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2427,1719,3425
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1363,959,1936
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1279,881,1854
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",847,589,1216
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",755,435,1308
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1053,776,1428
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","13","10, Aurangzeb Road, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1477,1086,2007
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1862,1443,2401
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","15","H205, Block H, Sarojini Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1659,1225,2245
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1279,935,1748
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1198,804,1784
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","21","3800 Prem Narain Road, Hauz Qazi, Sitaram Bazar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1103,837,1452
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1883,1441,2460
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2196,1634,2950
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1977,1579,2474
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2258,1773,2874
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2767,2173,3523
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2110,1689,2635
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2560,2153,3043
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2559,2078,3150
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1341,950,1892
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2655,2175,3240
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2669,2080,3424
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2430,1890,3124
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2707,2048,3576
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","90","C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3766,3095,4581
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","91","nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2960,2315,3783
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","97","1664, Bazar Chitli Qabar, Hauz Suiwalan, Chandni Chowk, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1079,912,1275
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","99","100 Street Number 1, Amar Puri, Ram Nagar, Paharganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",756,533,1071
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","100","Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",395,232,670
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",681,453,1022
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","103","nullDasghara Road, Dasghara, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",976,650,1464
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","107","1100 Zia UL Haq Road, Block A1, Chattarpur, Chhattarpur, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",4174,3232,5389
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","111","61 TO 80, Pocket J, Sarita Vihar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3279,2726,3942
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",760,550,1049
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","122","2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",985,777,1247
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1511,1318,1731
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","128","0 Shakti Mandir Marg, Block 10, Shakti Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",729,487,1091
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","129","Gali Number 8, Anand Parbat, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",366,182,733
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","130","Bhagat Singh Marg, Kashmiri Bagh, Chandra Shekhar Azad Colony, Sarai Rohilla, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",329,116,932
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",581,222,1517
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1208,833,1750
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",902,625,1299
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","148","Unnamed Road, Patparganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2502,1983,3156
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2251,1781,2844
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",776,617,975
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","157","CH Devender Singh Tewatia Marg, Ashok Vihar II, Pocket B 1, Phase 3, Ashok Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",679,530,869
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","158","484, Block E, Nimri Colony, Ashok Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",809,536,1219
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",936,714,1225
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1187,925,1522
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",616,393,964
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","162","2400 Pt Govind Ram Shastri Marg, Ganeshpura, Tri Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",627,472,832
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",800,523,1221
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1058,799,1400
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1240,943,1628
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1125,827,1528
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1054,804,1380
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1571,1258,1960
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3136,2547,3860
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1909,1249,2916
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",507,312,822
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",308,109,869
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","205","2100 Gali Number 14, Block B, Prem Nagar, Patel Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",630,303,1307
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","206","0 Arya Samaj Road, Block 12B, Dev Nagar, Karol Bagh, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",193,72,511
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",360,163,793
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","209","nullMaharaja Agarsen Marg, Block A, CC Colony, Kalyan Vihar, नई दिल्ली","11/7/2016 - 11/7/2016, Every day, AM Peak",1015,790,1302
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","214","Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",777,534,1130
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3362,2533,4461
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3519,2624,4719
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1062,797,1414
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",592,406,862
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2162,1717,2721
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3653,2798,4767
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","250","719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",940,718,1228
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",498,208,1191
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","252","813, Sector 1, RK Puram, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2155,1728,2686
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2236,1742,2869
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","256","D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2643,2236,3123
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3072,2480,3805
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2344,1927,2850
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",2082,1533,2825
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1915,1424,2574
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","272","Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",3350,2772,4047
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",1698,1212,2377
+"207","0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi","287","L47, Block L, Shastri Nagar, Delhi","11/7/2016 - 11/7/2016, Every day, AM Peak",488,297,800

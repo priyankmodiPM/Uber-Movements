@@ -1,0 +1,98 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2009,1598,2524
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1952,1508,2526
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2437,1917,3096
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2466,1951,3116
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2495,1987,3132
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2119,1690,2656
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","9","Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1772,1402,2238
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","10","0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1374,1117,1689
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1722,1301,2277
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1685,1519,1868
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","13","10, Aurangzeb Road, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1912,1530,2388
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2712,2234,3290
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2075,1735,2480
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","17","0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2481,1952,3153
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","18","Unnamed Road, Lal Qila, Chandni Chowk, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1046,815,1341
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","19","Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1523,1251,1853
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","25","nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",351,90,1357
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2660,2151,3289
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","40","Gali Saini Tent, Ram Nagar, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1351,1072,1701
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","41","Lala Raghubar Dayal Marg, Phase 4, Block B, Subhash Park, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1295,1007,1664
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","43","A537, New Seelampur Phase II, New Seelampur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1100,855,1413
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","58","Pushta Road, Block A, Rajiv Nagar, Sonia Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1753,1349,2276
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1602,1282,2001
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1987,1650,2392
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2051,1782,2359
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2085,1719,2527
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2115,1733,2580
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2551,2267,2870
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2184,1949,2446
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2041,1687,2469
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","100","Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1110,875,1407
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","101","4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1400,1081,1812
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","103","nullDasghara Road, Dasghara, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1835,1508,2232
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1828,1368,2441
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","112","F-8, West Chandra Nagar, Chander Nagar, Krishna Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1472,1344,1611
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","116","9/5284, Shanti Mohalla, Seelampur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1173,925,1486
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","119","81, Zulfe Bengal, Dilshad Garden, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1578,1266,1966
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1361,1021,1813
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","122","2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1665,1412,1962
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1667,1213,2289
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1717,1313,2244
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","126","nullSwami Narayan Underpass Road, Block E, Sangam Park, Ashok Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",678,433,1061
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","127","NDPL House, Lala Achintaram Marg, Block B, Gujranwala Town, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",357,144,884
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","128","0 Shakti Mandir Marg, Block 10, Shakti Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",610,328,1131
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","129","Gali Number 8, Anand Parbat, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1355,980,1872
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","131","4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",926,721,1188
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","132","1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",723,507,1029
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","133","0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",511,298,875
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","148","Unnamed Road, Patparganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2098,1569,2805
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","154","nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1646,1316,2057
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","155","Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",840,552,1278
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1005,704,1434
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","157","CH Devender Singh Tewatia Marg, Ashok Vihar II, Pocket B 1, Phase 3, Ashok Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",827,550,1242
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","158","484, Block E, Nimri Colony, Ashok Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1050,689,1599
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1083,764,1533
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1272,917,1764
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1148,840,1567
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","162","2400 Pt Govind Ram Shastri Marg, Ganeshpura, Tri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1547,1233,1940
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1528,1150,2028
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1195,929,1535
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1947,1507,2515
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2092,1658,2638
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",877,557,1378
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1066,707,1605
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1534,1130,2082
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","188","12/188, Shastri Nagar, Geeta Colony, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1147,917,1433
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","189","F22, Block F, Krishna Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1170,902,1517
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","191","0 Hasanpur, I.P.Extension, Patparganj, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1908,1535,2371
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1074,773,1490
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1790,1416,2262
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1545,1345,1773
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","208","Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1306,1014,1681
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","209","nullMaharaja Agarsen Marg, Block A, CC Colony, Kalyan Vihar, नई दिल्ली","11/1/2016 - 11/1/2016, Every day, AM Peak",307,148,635
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","214","Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",565,266,1198
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2774,2277,3379
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",3002,2388,3772
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","225","0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",735,468,1153
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","226","Unnamed Road, Model Town, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",500,275,905
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","228","0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",291,135,625
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1630,1206,2202
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2000,1562,2559
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1936,1458,2570
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","234","113, Press Colony, Press Colony, Mayapuri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2150,1641,2816
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1295,965,1736
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1846,1657,2055
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2946,2409,3602
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1506,1221,1857
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2675,2093,3418
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","263","200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1799,1357,2383
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","264","Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1610,1208,2145
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","265","0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1261,1014,1567
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","267","nullPanduk Shila Marg, Kaithwara Jagjivan Nagar, New Usmanpur, Shahdara, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1094,798,1498
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1799,1510,2142
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",2388,1990,2865
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","282","Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1326,1051,1671
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","283","nullVijay Marg, Block B, Baljit Nagar, Patel Nagar, New Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1507,1215,1868
+"227","300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi","287","L47, Block L, Shastri Nagar, Delhi","11/1/2016 - 11/1/2016, Every day, AM Peak",1157,879,1521

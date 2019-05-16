@@ -1,0 +1,98 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","2","Unnamed Road, Delhi Cantonment, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",214,130,350
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","3","Unnamed Road, Mahipalpur, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1123,759,1659
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","4","P-268/3, Rock View, Delhi Cantonment, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1248,875,1778
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","5","Old Palam Road, Delhi Cantonment, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1427,1011,2012
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","7","P 13, Baird Place, Delhi Cantonment, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1450,320,6553
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","8","Mall Road, Khyber Lines, Delhi Cantonment, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",496,323,761
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","11","Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",537,336,857
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","12","Jantar Mantar Road, Janpath, Connaught Place, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2145,1404,3275
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","13","10, Aurangzeb Road, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1554,1200,2010
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","14","Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1159,855,1570
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","15","H205, Block H, Sarojini Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1315,975,1772
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","16","Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",615,407,928
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","24","268, Block B2, Shiv Nagar, Janakpuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1334,783,2270
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","26","A3-214, Asalatpur Village, Janakpuri, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1732,1004,2986
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","27","0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1808,748,4366
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","61","Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1868,1491,2340
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","62","D/116, Jeewan Nagar, Sunlight Colony, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1983,1455,2701
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","63","Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1994,1727,2301
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","64","6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1783,1299,2445
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","65","Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1792,1396,2299
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","66","nullBhagat Singh Market Marg, Block K, Malviya Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2134,1677,2714
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","67","63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1658,1196,2297
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","68","0 Paschimi Marg, Block E, Vasant Vihar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1544,1254,1900
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","69","1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1518,1149,2004
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","70","G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",606,403,910
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","71","JNU Ring Road, Jawaharlal Nehru University, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1668,1371,2028
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","76","124, SPG Quarters, Sector 4, Pushp Vihar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2668,2070,3438
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","80","E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2414,1908,3053
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","82","286, Asian Games Village Complex, Siri Fort, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2005,1559,2576
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","83","C2, Block C, Kailash Colony, Greater Kailash, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2272,1667,3095
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","84","nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2169,1535,3064
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","85","Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2217,1656,2967
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","90","C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",3179,2545,3970
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","91","nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2613,2042,3343
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","103","nullDasghara Road, Dasghara, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1091,579,2054
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","104","nullArya Samaj Marg, Block A1, Block EA, Inder Puri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",832,557,1242
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","105","nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",109,28,418
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","121","22/55, West Punjabi Bagh, Punjabi Bagh, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",459,342,615
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","122","2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1878,973,3623
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","123","Loknath Marg, Block M, Kirti Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",834,515,1349
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","124","30, 31, Block B, Mansarover Garden, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",236,144,385
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","126","nullSwami Narayan Underpass Road, Block E, Sangam Park, Ashok Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1306,1039,1641
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","127","NDPL House, Lala Achintaram Marg, Block B, Gujranwala Town, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1547,1266,1889
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","135","0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",777,547,1102
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","137","nullRoad Number 235, Block H, Vikaspuri, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2256,1325,3839
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","142","Gali Number 1, Dabri Village, Dabri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1984,903,4357
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","148","Unnamed Road, Patparganj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2175,1515,3122
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","155","Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1138,759,1706
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","156","Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",863,590,1260
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","157","CH Devender Singh Tewatia Marg, Ashok Vihar II, Pocket B 1, Phase 3, Ashok Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1225,978,1533
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","158","484, Block E, Nimri Colony, Ashok Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",962,838,1103
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","159","300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",712,582,870
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","160","23, Shiva Enclave, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1071,750,1529
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","161","nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",671,493,911
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","163","0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1697,1043,2760
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","164","Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",613,450,834
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","165","31, Cottage Enclave, Paschim Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1117,710,1756
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","166","nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1252,818,1915
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","167","nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1015,737,1396
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","169","G-9, Block F 1U, Ranikhet, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1634,1091,2446
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","170","nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",891,673,1177
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","171","nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1434,1166,1762
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","172","nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1395,1014,1918
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","173","Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1476,1142,1907
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","175","235, Block E, Block E, Mangolpuri, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2585,1516,4407
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","176","B7-187, Pocket 7, Sector 3B, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2028,1367,3008
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","179","0 AB Road, Block RR, Mianwali Nagar, Paschim Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1395,965,2014
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","193","Unnamed Road, Usmanpur, Shahdara, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2563,1670,3932
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","196","nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1699,1302,2216
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","199","0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",909,646,1277
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","204","0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2187,1223,3908
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","205","2100 Gali Number 14, Block B, Prem Nagar, Patel Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1730,932,3209
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","222","Sector E, Mahipalpur Village, Vasant Kunj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1873,1354,2590
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","223","Urban Extension Road II, Indira Gandhi International Airport, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2060,1528,2776
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","225","0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1204,771,1877
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","226","Unnamed Road, Model Town, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1360,900,2053
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","229","200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",334,237,469
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","231","G-17/6, Block G, Rajouri Garden, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",273,177,420
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","232","4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1516,635,3617
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","233","nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",164,85,313
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","234","113, Press Colony, Press Colony, Mayapuri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",208,112,386
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","240","37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2168,1321,3555
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","244","Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",564,391,813
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","246","nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1908,1375,2646
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","248","Unnamed Road, Harijan Basti, Rajokri, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2180,1632,2910
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","250","719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",703,596,828
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","251","A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1704,1034,2805
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","252","813, Sector 1, RK Puram, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",931,678,1278
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","253","0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1311,968,1774
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","254","Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1807,1367,2387
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","255","1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1524,1107,2097
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","258","Sant Sujan Singh Marg, JJ Colony, Block N, Tagore Garden, Tagore Garden Extension, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",699,503,970
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","259","Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2314,1782,3003
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","272","Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2490,1957,3167
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","275","125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2099,1499,2938
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","279","Nightingale Road, Budella, Vikaspuri, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",2356,1333,4161
+"1","300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi","281","D915, New Mahavir Nagar, Tilak Nagar, Delhi","11/3/2016 - 11/3/2016, Every day, AM Peak",1718,985,2993
